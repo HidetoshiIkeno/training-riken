@@ -1,8 +1,10 @@
 # Intro to training 
-
+(Yoshi Tamori)
 * Installation
 	- check installation: local or docker 
 	- check who knows what
+        - I think you should add this part :):) Carlos. 
+        - This modification is going to branch_1.
 
 * p-value questionnaire
 		[Start here](http://www.reproducibleimaging.org/module-stats/03-p-values/)
@@ -74,7 +76,11 @@ jupyter notebook --ip=* --port=9999 Positive-Predictive-Value.ipynb
 - instead of “localhost”, run “docker-machine.exe ip” to get your docker machine IP address.  
 Then use this in place of “localhost”
 
+<<<<<<< HEAD
 changed by H.Ikeno
 
 change change change
 test
+=======
+# GIT tutorial. Alexander Woodward
+>>>>>>> ea551992866503305df467b6807459867165820b
