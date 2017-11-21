@@ -77,6 +77,7 @@ jupyter notebook --ip=* --port=9999 Positive-Predictive-Value.ipynb
 Then use this in place of “localhost”
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 changed by H.Ikeno
 
 change change change
@@ -84,3 +85,7 @@ test
 =======
 # GIT tutorial. Alexander Woodward
 >>>>>>> ea551992866503305df467b6807459867165820b
+=======
+
+# GIT tutorial. Alexander Woodward
+>>>>>>> 6ca60a6d96769db32b6973c61c1011b2621afc1e
